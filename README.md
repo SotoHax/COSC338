@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Wordle Gameplay](cosc338wordle-ezgif.com-video-to-gif-converter)
+![Wordle Gameplay](cosc338wordle-ezgif.com-video-to-gif-converter.webm)
 
 GIF created with ezgif.com
 
